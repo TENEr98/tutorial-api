@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER TENEr98
+LABEL maintainer="TENEr98"
 
 ENV PYTHONUNBUFFERED 1
 
